@@ -284,7 +284,7 @@ $
 ## Authors :black_nib:
 
 * Dibor Solomon <[Robid-Phantom007](https://github.com/Robid-Phantom007)>
-* Felix Nwaora <[felixgreat](https://github.com/felixgreat)>
+* Felix Chukwudi Nwaora <[Felixgreat](https://github.com/felixgreat)>
 
 ## License :lock:
 
